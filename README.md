@@ -88,13 +88,11 @@ Catodo (perna menor) do LED → resistor de 220 Ω → linha GND da protoboard.
 
 Linha GND da protoboard conectada ao GND do Arduino.
 
-/*
   Blink LED Externo
   Autora: Letícia Saravia
   Data: 17 de outubro de 2025
   Descrição: Pisca um LED externo conectado ao pino 13 do Arduino UNO.
   ```
-*/
 
 int led = 13;           // LED conectado ao pino digital 13
 int tempoAceso = 500;   // LED aceso por 0,5 segundo
