@@ -160,8 +160,10 @@ void loop() {
   
   <sub>Print do código</sub>  
   
-  <img src="./img/externoprint" alt="Imagem do projeto" width="80%">
+  <img src="./img/externoprint.jpg" alt="Imagem do projeto" width="80%">
   <br>
   <sup>Fonte: Prod. por Letícia</sup>
+
+  
 
   
