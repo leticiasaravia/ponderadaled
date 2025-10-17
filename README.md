@@ -58,6 +58,33 @@ void loop() {
    - Compilar e enviar o código para a placa.
 ```
 ### Evidências
+<div align="center">
+  
+  <sub>LED interno ligado</sub>  
+  
+  <img src="./assets/intlig.jpg" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+  <div align="center">
+  
+  <sub>LED interno desligado</sub>  
+  
+  <img src="./assets/intdes.jpg" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+ <div align="center">
+  
+  <sub> Print do código</sub>  
+  
+  <img src="./assets/internoprint.jpg" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+  
+
+  
 
 
 ## Parte 2 – Simulando Blink Externo (TinkerCad)
@@ -111,3 +138,30 @@ void loop() {
 ```
 
 # Evidências
+ <div align="center">
+  
+  <sub>LED externo ligado</sub>  
+  
+  <img src="./assets/extlig.jpg" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+  
+ <div align="center">
+  
+  <sub>LED externo desligado</sub>  
+  
+  <img src="./assets/extdes.jpg" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+  
+ <div align="center">
+  
+  <sub>Print do código</sub>  
+  
+  <img src="./assets/externoprint" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: Prod. por Letícia</sup>
+
+  
